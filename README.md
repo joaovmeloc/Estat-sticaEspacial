@@ -1,0 +1,2 @@
+# Estat-sticaEspacial
+Mapas
